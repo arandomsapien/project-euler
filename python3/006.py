@@ -1,5 +1,5 @@
 # Solution to problem 6
-# https://projecteuler.net/problem=5
+# https://projecteuler.net/problem=6
 
 def sum_of_squares(n):
     """ returns the sum of squares of first n numbers """
